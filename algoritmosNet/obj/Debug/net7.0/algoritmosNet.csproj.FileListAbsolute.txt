@@ -1,0 +1,14 @@
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\bin\Debug\net7.0\algoritmosNet.exe
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\bin\Debug\net7.0\algoritmosNet.deps.json
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\bin\Debug\net7.0\algoritmosNet.runtimeconfig.json
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\bin\Debug\net7.0\algoritmosNet.dll
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\bin\Debug\net7.0\algoritmosNet.pdb
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\obj\Debug\net7.0\algoritmosNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\obj\Debug\net7.0\algoritmosNet.AssemblyInfoInputs.cache
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\obj\Debug\net7.0\algoritmosNet.AssemblyInfo.cs
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\obj\Debug\net7.0\algoritmosNet.csproj.CoreCompileInputs.cache
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\obj\Debug\net7.0\algoritmosNet.dll
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\obj\Debug\net7.0\refint\algoritmosNet.dll
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\obj\Debug\net7.0\algoritmosNet.pdb
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\obj\Debug\net7.0\algoritmosNet.genruntimeconfig.cache
+C:\Users\APT01-65\Documents\NetAlgoritmos\algoritmosNet\obj\Debug\net7.0\ref\algoritmosNet.dll
